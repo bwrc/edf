@@ -7,9 +7,10 @@ Installation
 ------------
 To install the `edf` package in R, proceed as follows in R.
 
-First install the `devtools`-package
+First install the `devtools`-package and load it:
 ```
    install.packages("devtools")
+   library(devtools)
 ```
 
 You can now install the `edf` package:
