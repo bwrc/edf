@@ -27,3 +27,7 @@ library(edf)
 datafile <- "/tmp/signal.edf"
 recording <- read.edf(datafile)
 ```
+
+License
+-------
+The `edf` R-package is licensed under the [MIT-license](http://opensource.org/licenses/MIT).
