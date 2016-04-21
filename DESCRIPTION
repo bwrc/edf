@@ -1,14 +1,16 @@
 Package: edf
 Type: Package
 Title: Read data from European Data Format (EDF and EDF+) files
-Version: 0.1.0
+Version: 1.0.0
 Description: A function for importing physiologic data stored in
     European Data Format (EDF and EDF+) files into R.
     Both EDF and EDF+ files are supported. Discontinuous
     EDF+ are not yet supported.
-Author: Andreas Henelius <andreas.henelius@ttl.fi>
-Maintainer: Andreas Henelius <andreas.henelius@ttl.fi>
+Author: Andreas Henelius <andreas.henelius@iki.fi>
+Maintainer: Andreas Henelius <andreas.henelius@iki.fi>
+URL: https://github.com/bwrc/edf
 Depends:
     R (>= 3.0.2)
 License: MIT + file LICENSE
 Encoding: UTF-8
+RoxygenNote: 5.0.1
