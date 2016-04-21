@@ -1,3 +1,8 @@
+## Resubmission
+This is a resubmission.
+
+* Changed title in DESCRIPTION to title case.
+
 ## Test environments
 * local Debian 8, R 3.2.4
 

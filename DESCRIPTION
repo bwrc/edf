@@ -1,6 +1,6 @@
 Package: edf
 Type: Package
-Title: Read data from European Data Format (EDF and EDF+) files
+Title: Read Data from European Data Format (EDF and EDF+) Files
 Version: 1.0.0
 Description: A function for importing physiologic data stored in
     European Data Format (EDF and EDF+) files into R.
