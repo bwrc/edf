@@ -5,6 +5,7 @@ This is a resubmission.
 
 ## Test environments
 * local Debian 8, R 3.2.4
+* local rocker/r-devel, R 3.2.5 
 
 ## R CMD check results
 There were no ERRORs or WARNINGs. 
