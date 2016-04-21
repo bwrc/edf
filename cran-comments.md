@@ -2,6 +2,7 @@
 This is a resubmission.
 
 * Changed title in DESCRIPTION to title case.
+* Updated package description in DESCRIPTION.
 
 ## Test environments
 * local Debian 8, R 3.2.4
