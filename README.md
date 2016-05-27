@@ -3,9 +3,18 @@ edf
 
 `edf` is an [R-package](https://www.r-project.org/) for reading physiologic data recorded in the [European Data Format (EDF)](http://www.edfplus.info/).
 
-Installation
-------------
+Installation from CRAN
+-----------------------
+The `edf` package is found on [CRAN](https://cran.r-project.org/web/packages/edf/) and this is the preferred way of installing the package.
+
 To install the `edf` package in R, proceed as follows in R.
+
+```
+install.packages("edf").
+```
+Installation from GitHub
+-----------------------
+The development version of the `edf` package can be installed from GitHub as follows.
 
 First install the `devtools`-package and load it:
 ```
