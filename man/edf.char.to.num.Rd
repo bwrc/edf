@@ -22,4 +22,3 @@ s <- "123   "
 edf:::edf.char.to.num(s)
 }
 \keyword{internal}
-

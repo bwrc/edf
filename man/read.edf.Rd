@@ -27,14 +27,13 @@ This function reads the data stored in an EDF or EDF+ file. This data
 consists of, e.g., physiologic signals and possibly also annotations (EDF+ files only).
 }
 \references{
-Kemp B., V\"{a}rri, A., Rosa, A.C., Nielsen, K.D. and Gade, J. (1992).
+Kemp B., Värri, A., Rosa, A.C., Nielsen, K.D. and Gade, J. (1992).
             A simple format for exchange of digitized polygraphic recordings.
             Electroencephalogr Clin Neurophysiol. 1992 May;82(5):391-3.
-            \url{http://www.ncbi.nlm.nih.gov/pubmed/1374708}
+            \doi{10.1016/0013-4694(92)90009-7}
 
             Kemp, B. and Olivan, J. (2003). European data format 'plus' (EDF+),
             an EDF alike standard format for the exchange of physiological data.
             Clin Neurophysiol. 2003 Sep;114(9):1755-61.
-            \url{http://www.ncbi.nlm.nih.gov/pubmed/12948806}
+            \doi{10.1016/s1388-2457(03)00123-8}
 }
-

@@ -2,8 +2,8 @@
 % Please edit documentation in R/edf.R
 \docType{package}
 \name{edf}
-\alias{edf}
 \alias{edf-package}
+\alias{edf}
 \title{Read data stored in a European Data Format (EDF and EDF+) file.}
 \description{
 The edf package provides methods for reading files containing
@@ -14,11 +14,31 @@ file and returns the data as a structured list.
 Kemp B., Värri, A., Rosa, A.C., Nielsen, K.D. and Gade, J. (1992).
             A simple format for exchange of digitized polygraphic recordings.
             Electroencephalogr Clin Neurophysiol. 1992 May;82(5):391-3.
-            \url{http://www.ncbi.nlm.nih.gov/pubmed/1374708}
+            \doi{10.1016/0013-4694(92)90009-7}
 
             Kemp, B. and Olivan, J. (2003). European data format 'plus' (EDF+),
             an EDF alike standard format for the exchange of physiological data.
             Clin Neurophysiol. 2003 Sep;114(9):1755-61.
-            \url{http://www.ncbi.nlm.nih.gov/pubmed/12948806}
+            \doi{10.1016/s1388-2457(03)00123-8}
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/bwrc/edf}
 }
 
+}
+\author{
+\strong{Maintainer}: Andreas Henelius \email{andreas.henelius@iki.fi}
+
+Authors:
+\itemize{
+  \item Andreas Henelius \email{andreas.henelius@iki.fi}
+}
+
+Other contributors:
+\itemize{
+  \item Finnish Institute of Occupational Health [copyright holder]
+}
+
+}

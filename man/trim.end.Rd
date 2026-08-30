@@ -22,4 +22,3 @@ s <- "abc   "
 edf:::trim.end(s)
 }
 \keyword{internal}
-

@@ -16,4 +16,3 @@ A named list containing the information in the EDF/EDF+ header.
 This function parses the header of an EDF or EDF+ file.
 }
 \keyword{internal}
-
