@@ -19,4 +19,3 @@ A named list containing the information in the EDF/EDF+ signal header.
 This function parses the signal header of an EDF or EDF+ file.
 }
 \keyword{internal}
-

@@ -16,4 +16,3 @@ A data frame containing the information in the TAL: onset, duration and annotati
 This function parses one EDF+ Time-stamped Annotation List (TAL).
 }
 \keyword{internal}
-

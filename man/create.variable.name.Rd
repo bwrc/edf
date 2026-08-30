@@ -22,4 +22,3 @@ s <- "a-b"
 edf:::create.variable.name(s)
 }
 \keyword{internal}
-

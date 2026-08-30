@@ -16,4 +16,3 @@ A data frame containing the annotatations in the EDF+ file.
 This function parses the annotations in an EDF+ file.
 }
 \keyword{internal}
-
